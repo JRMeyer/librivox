@@ -6,9 +6,9 @@
 |Reader | Sections | Matches | Notes |
 |-------|----------|---------|-------|
 | [tovarisch](https://librivox.org/reader/8169) | 1029 | 260 | Mostly English |
-| [Mark Chulsky](https://librivox.org/reader/8086) | 381 | 58 | Lot's, but bad quality (maybe some good books?)| 
+| [Mark Chulsky](https://librivox.org/reader/8086) | 381 | 58 | Lot's, but echoey (maybe some good books?)| 
 | [Anastasiia Solokha](https://librivox.org/reader/8447) | 140 | 58 | Most English |
-| [Yakovlev Valery](https://librivox.org/reader/295) | 57 | 5 | |
+| [Yakovlev Valery](https://librivox.org/reader/295) | 57 | 5 | Humming in background |
 | [Xenium5](https://librivox.org/reader/9014) | 32 | 4 | |
 | [Lika](https://librivox.org/reader/12851) | 29 | 2 | |
 | [Irina Grinberg](https://librivox.org/reader/6661) | 10 | 1 | |
